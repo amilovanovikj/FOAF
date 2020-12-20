@@ -22,11 +22,11 @@
             foaf:name "Jana Nikolovska" ],
         [ a foaf:Person ;
             rdfs:seeAlso <https://raw.githubusercontent.com/becutandavid/FOAF/main/foaf.ttl> ;
-            foaf:mbox_sha1sum "44c7cfb642b2d2b3ab468245c77231089ed1bc5b" ;
+            foaf:mbox_sha1sum "12f069550a7e3be3198b8331a8ab7e7fe548edf0" ;
             foaf:name "David Galevski" ],
         [ a foaf:Person ;
             rdfs:seeAlso <https://raw.githubusercontent.com/ekostadinov5/foaf/master/foaf.ttl> ;
-            foaf:mbox_sha1sum "db9d6e03472d52b46a03427b7c6bd3294e81f779" ;
+            foaf:mbox_sha1sum "77de3ee39ae0f51922497368f34ddaf028a82385" ;
             foaf:name "Evgenij Kostadinov" ] ;
     foaf:mbox_sha1sum "fe8c264a33c423c690cda35dd0b8b43061764346" ;
     foaf:name "Andrej Milovanovikj" ;
