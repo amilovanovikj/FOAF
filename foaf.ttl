@@ -19,7 +19,15 @@
         [ a foaf:Person ;
             rdfs:seeAlso <https://raw.githubusercontent.com/jananikolovska/WBS/main/foaf.ttl> ;
             foaf:mbox_sha1sum "4fdd4dd16f1bea78c19806b66eabec43eb123314" ;
-            foaf:name "Jana Nikolovska" ] ;
+            foaf:name "Jana Nikolovska" ],
+        [ a foaf:Person ;
+            rdfs:seeAlso <https://raw.githubusercontent.com/becutandavid/FOAF/main/foaf.ttl> ;
+            foaf:mbox_sha1sum "44c7cfb642b2d2b3ab468245c77231089ed1bc5b" ;
+            foaf:name "David Galevski" ],
+        [ a foaf:Person ;
+            rdfs:seeAlso <https://raw.githubusercontent.com/ekostadinov5/foaf/master/foaf.ttl> ;
+            foaf:mbox_sha1sum "db9d6e03472d52b46a03427b7c6bd3294e81f779" ;
+            foaf:name "Evgenij Kostadinov" ] ;
     foaf:mbox_sha1sum "fe8c264a33c423c690cda35dd0b8b43061764346" ;
     foaf:name "Andrej Milovanovikj" ;
     foaf:nick "Anki" ;
